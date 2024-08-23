@@ -12,6 +12,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://cheatography.com/tag/devops/"><br /><b>DevOps Cheatsheets</b></a></td>
+    <td align="center"><a href="https://github.com/ankitpro/DevOps-Interview-Preparation/blob/main/careerTransition.md"><br /><b>Skills Trend Info</b></a></td>
   </tr>
 </table>
 </center>
