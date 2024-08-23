@@ -1,7 +1,6 @@
-# Author: Ankit Agarwal
-## Topic: DevOps Interview Preparation
-### Description: This repo will have information on the resources and also way to crack interview with best package available in the market.
-#### Page is still under construction. Will keep updating it as and when possible. Keep watching for more updates.
+# DevOps Interview Preparation
+## This repo will have information on the resources and also way to crack interview with best package available in the market.
+
 <center>
 <table>
   <tr>
@@ -13,13 +12,25 @@
   </tr>
   <tr>
     <td align="center"><a href="https://cheatography.com/tag/devops/"><br /><b>DevOps Cheatsheets</b></a></td>
-    <td align="center"><a href="https://cheatography.com/tag/devops/"><br /><b>DevOps Cheatsheets</b></a></td>
   </tr>
 </table>
 </center>
 
+### Page is still under construction. Will keep updating it as and when possible. Keep watching for more updates.
+
+## Feedback
+
+If you have any feedback, please reach out to me at ankitagarwalpro@gmail.com
+
+## Contributing
+
+Contributions are always welcome!
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ankitpro.github.io/portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitagarwal94/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+## Authors
+
+- [@ankitpro](https://github.com/ankitpro)
