@@ -4,11 +4,11 @@
 <center>
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/ankitpro/devops-exercises"><br /><b>DevOps Exercises</b></a></td>
-    <td align="center"><a href="https://github.com/ankitpro/python-exercises"><br /><b>Python exercises</b></a></td>
-    <td align="center"><a href="https://github.com/ankitpro/devops-resources"><br /><b>DevOps Resources</b></a></td>
-    <td align="center"><a href="https://github.com/ankitpro/terraform_interview_questions/blob/main/101_terraform_interview_questions.md"><br /><b>101 Terraform Interview Questions</b></a></td>
-    <td align="center"><a href="https://github.com/ankitpro/DevOps-AWS-Interview-QA"><br /><b>DevOps-AWS-Interview-QA</b></a></td>
+    <td align="center"><a href="https://github.com/bregman-arie/devops-exercises"><br /><b>DevOps Exercises</b></a></td>
+    <td align="center"><a href="https://github.com/bregman-arie/python-exercises"><br /><b>Python exercises</b></a></td>
+    <td align="center"><a href="https://github.com/bregman-arie/devops-resources"><br /><b>DevOps Resources</b></a></td>
+    <td align="center"><a href="https://github.com/mamun001/terraform_interview_questions/blob/main/101_terraform_interview_questions.md"><br /><b>101 Terraform Interview Questions</b></a></td>
+    <td align="center"><a href="https://github.com/vijaybiradar/DevOps-AWS-Interview-QA"><br /><b>DevOps-AWS-Interview-QA</b></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://cheatography.com/tag/devops/"><br /><b>DevOps Cheatsheets</b></a></td>
