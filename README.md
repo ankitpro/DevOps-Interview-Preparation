@@ -8,15 +8,16 @@
 <center>
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/bregman-arie/devops-exercises"><img src="images/Devops exercises.png" width="150px;" height="100px;" alt="DevOps" /><br /><b>DevOps Exercises</b></a></td>
-    <td align="center"><a href="https://github.com/bregman-arie/python-exercises"><img src="images/python exercises.jpg" width="150px;" height="100px;" alt="DevOps" /><br /><b>Python exercises</b></a></td>
-    <td align="center"><a href="https://github.com/bregman-arie/devops-resources"><img src="images/devops resources.png" width="150px;" height="100px;" alt="DevOps" /><br /><b>DevOps Resources</b></a></td>
-    <td align="center"><a href="https://github.com/mamun001/terraform_interview_questions/blob/main/101_terraform_interview_questions.md"><img src="images/terraform question and answer.jpg" width="150px;" height="100px;" alt="DevOps" /><br /><b>101 Terraform Interview Questions</b></a></td>
+    <td align="center"><a href="https://github.com/bregman-arie/devops-exercises"><img src="images/Devops exercises.png" width="150px;" height="100px;" alt="DevOps Exercises" /><br /><b>DevOps Exercises</b></a></td>
+    <td align="center"><a href="https://github.com/bregman-arie/python-exercises"><img src="images/python exercises.jpg" width="150px;" height="100px;" alt="Python exercises" /><br /><b>Python exercises</b></a></td>
+    <td align="center"><a href="https://github.com/bregman-arie/devops-resources"><img src="images/devops resources.png" width="150px;" height="100px;" alt="DevOps Resources" /><br /><b>DevOps Resources</b></a></td>
+    <td align="center"><a href="https://github.com/mamun001/terraform_interview_questions/blob/main/101_terraform_interview_questions.md"><img src="images/terraform question and answer.jpg" width="150px;" height="100px;" alt="101 Terraform Interview Questions" /><br /><b>101 Terraform Interview Questions</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/vijaybiradar/DevOps-AWS-Interview-QA"><img src="images/aws devops.png" width="150px;" height="100px;" alt="DevOps" /><br /><b>DevOps-AWS-Interview-QA</b></a></td>
-    <td align="center"><a href="https://cheatography.com/tag/devops/"><img src="images/DevOps-Cheatsheet.webp" width="150px;" height="100px;" alt="DevOps" /><br /><b>DevOps Cheatsheets</b></a></td>
-    <td align="center"><a href="https://github.com/ankitpro/DevOps-Interview-Preparation/blob/main/careerTransition.md"><img src="images/skill trend.png" width="150px;" height="100px;" alt="DevOps" /><br /><b>Skills Trend Info</b></a></td>
+    <td align="center"><a href="https://github.com/vijaybiradar/DevOps-AWS-Interview-QA"><img src="images/aws devops.png" width="150px;" height="100px;" alt="DevOps-AWS-Interview-Q&A" /><br /><b>DevOps-AWS-Interview-Q&A</b></a></td>
+    <td align="center"><a href="https://cheatography.com/tag/devops/"><img src="images/DevOps-Cheatsheet.webp" width="150px;" height="100px;" alt="DevOps Cheatsheets" /><br /><b>DevOps Cheatsheets</b></a></td>
+    <td align="center"><a href="https://github.com/ankitpro/DevOps-Interview-Preparation/blob/main/careerTransition.md"><img src="images/skill trend.png" width="150px;" height="100px;" alt="Skills Trend Info" /><br /><b>Skills Trend Info</b></a></td>
+    <td align="center"><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/README.md"><img src="images/skill assesement quizzes.webp" width="150px;" height="100px;" alt="Skill Assesement Quizzes" /><br /><b>Skill Assesement Quizzes</b></a></td>
   </tr>
 </table>
 </center>
