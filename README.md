@@ -1,18 +1,22 @@
 # DevOps Interview Preparation
-## This repo will have information on the resources and also way to crack interview with best package available in the market.
+:information_source: &nbsp;This repo will have information on the resources and also way to crack interview with best package available in the market.
+
+:warning: &nbsp;You can use these for preparing for an interview but most of the questions and exercises don't represent an actual interview.
+
+:stop_sign: &nbsp;If you are interested in pursuing a career as DevOps engineer, learning some of the concepts mentioned here would be useful, but you should know it's not about learning all the topics and technologies mentioned in this repository
 
 <center>
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/bregman-arie/devops-exercises"><br /><b>DevOps Exercises</b></a></td>
-    <td align="center"><a href="https://github.com/bregman-arie/python-exercises"><br /><b>Python exercises</b></a></td>
-    <td align="center"><a href="https://github.com/bregman-arie/devops-resources"><br /><b>DevOps Resources</b></a></td>
-    <td align="center"><a href="https://github.com/mamun001/terraform_interview_questions/blob/main/101_terraform_interview_questions.md"><br /><b>101 Terraform Interview Questions</b></a></td>
+    <td align="center"><a href="https://github.com/bregman-arie/devops-exercises"><img src="images/Devops exercises.png" width="150px;" height="100px;" alt="DevOps" /><br /><b>DevOps Exercises</b></a></td>
+    <td align="center"><a href="https://github.com/bregman-arie/python-exercises"><img src="images/python exercises.jpg" width="150px;" height="100px;" alt="DevOps" /><br /><b>Python exercises</b></a></td>
+    <td align="center"><a href="https://github.com/bregman-arie/devops-resources"><img src="images/devops resources.png" width="150px;" height="100px;" alt="DevOps" /><br /><b>DevOps Resources</b></a></td>
+    <td align="center"><a href="https://github.com/mamun001/terraform_interview_questions/blob/main/101_terraform_interview_questions.md"><img src="images/terraform question and answer.jpg" width="150px;" height="100px;" alt="DevOps" /><br /><b>101 Terraform Interview Questions</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/vijaybiradar/DevOps-AWS-Interview-QA"><br /><b>DevOps-AWS-Interview-QA</b></a></td>
-    <td align="center"><a href="https://cheatography.com/tag/devops/"><br /><b>DevOps Cheatsheets</b></a></td>
-    <td align="center"><a href="https://github.com/ankitpro/DevOps-Interview-Preparation/blob/main/careerTransition.md"><br /><b>Skills Trend Info</b></a></td>
+    <td align="center"><a href="https://github.com/vijaybiradar/DevOps-AWS-Interview-QA"><img src="images/aws devops.png" width="150px;" height="100px;" alt="DevOps" /><br /><b>DevOps-AWS-Interview-QA</b></a></td>
+    <td align="center"><a href="https://cheatography.com/tag/devops/"><img src="images/DevOps-Cheatsheet.webp" width="150px;" height="100px;" alt="DevOps" /><br /><b>DevOps Cheatsheets</b></a></td>
+    <td align="center"><a href="https://github.com/ankitpro/DevOps-Interview-Preparation/blob/main/careerTransition.md"><img src="images/skill trend.png" width="150px;" height="100px;" alt="DevOps" /><br /><b>Skills Trend Info</b></a></td>
   </tr>
 </table>
 </center>
@@ -25,13 +29,15 @@
 
 ## Feedback
 
-If you have any feedback, please reach out to me at ankitagarwalpro@gmail.com
+If you have any feedback, please reach out to me at [ankitagarwalpro@gmail.com](mailto:ankitagarwalpro@gmail.com) 
 
 ---
 
 ## Contributing
 
 Contributions are always welcome!
+
+:pencil: &nbsp;You can add more exercises by submitting pull requests :) Read about contribution guidelines [here](CONTRIBUTING.md)
 
 ---
 
