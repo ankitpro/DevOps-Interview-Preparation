@@ -22,7 +22,7 @@
   <tr>
     <td align="center"><a href="https://github.com/yousinix/portfolYOU?tab=readme-ov-file"><img src="images/create-a-portfolio-website-with-github-pages.webp" width="150px;" height="100px;" alt="Create Portfolio Website with GitHub pages" /><br /><b>Create Portfolio Website with GitHub pages</b></a></td>
     <td align="center"><a href="https://github.com/ripienaar/free-for-dev/blob/master/README.md"><img src="images/content curation.jpg" width="150px;" height="100px;" alt="Curated Info of Free Softwares" /><br /><b>Curated Info of Free Softwares</b></a></td>
-    <td align="center"><a href="https://github.com/ripienaar/free-for-dev/blob/master/README.md"><img src="images/90 days of devops.png" width="150px;" height="100px;" alt="90 Days of Devops" /><br /><b>90 Days of Devops</b></a></td>
+    <td align="center"><a href="https://github.com/MichaelCade/90DaysOfDevOps/tree/main"><img src="images/90 days of devops.png" width="150px;" height="100px;" alt="90 Days of Devops" /><br /><b>90 Days of Devops</b></a></td>
   </tr>
 </table>
 </center>
