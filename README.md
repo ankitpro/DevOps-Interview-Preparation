@@ -19,6 +19,9 @@
     <td align="center"><a href="https://github.com/ankitpro/DevOps-Interview-Preparation/blob/main/careerTransition.md"><img src="images/skill trend.png" width="150px;" height="100px;" alt="Skills Trend Info" /><br /><b>Skills Trend Info</b></a></td>
     <td align="center"><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/README.md"><img src="images/skill assesement quizzes.webp" width="150px;" height="100px;" alt="Skill Assesement Quizzes" /><br /><b>Skill Assesement Quizzes</b></a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/yousinix/portfolYOU?tab=readme-ov-file"><img src="images/create-a-portfolio-website-with-github-pages.webp" width="150px;" height="100px;" alt="DevOps-AWS-Interview-Q&A" /><br /><b>Create Portfolio Website GitHub pages</b></a></td>
+  </tr>
 </table>
 </center>
 
