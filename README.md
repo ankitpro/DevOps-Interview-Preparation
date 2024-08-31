@@ -1,4 +1,4 @@
-# DevOps Interview Preparation
+# DevOps Interview Preparation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 :information_source: &nbsp;This repo will have information on the resources and also way to crack interview with best package available in the market.
 
 :warning: &nbsp;You can use these for preparing for an interview but most of the questions and exercises don't represent an actual interview.
@@ -24,6 +24,9 @@
     <td align="center"><a href="https://github.com/ripienaar/free-for-dev/blob/master/README.md"><img src="images/content curation.jpg" width="150px;" height="100px;" alt="Curated Info of Free Softwares" /><br /><b>Curated Info of Free Softwares</b></a></td>
     <td align="center"><a href="https://github.com/MichaelCade/90DaysOfDevOps/tree/main"><img src="images/90 days of devops.png" width="150px;" height="100px;" alt="90 Days of Devops" /><br /><b>90 Days of Devops</b></a></td>
     <td align="center"><a href="https://github.com/milanm/DevOps-Roadmap/blob/master/README.md"><img src="images/DevOps-Roadmap.webp" width="150px;" height="100px;" alt="DevOps Roadmap" /><br /><b>DevOps Roadmap</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/veggiemonk/awesome-docker/blob/master/README.md"><img src="images/Docker-Files-with-Source-code.webp" width="150px;" height="100px;" alt="Curated List of Docker Resources and Projects" /><br /><b>Curated List of Docker Resources and Projects</b></a></td>
   </tr>
 </table>
 </center>
