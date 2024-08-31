@@ -10,7 +10,7 @@ Stick to the following format:
 [Answer]
 \</b></details>
 
-* If you added several questions and you would like to know how many questions are there you can use the script "count_questions.sh" in scripts directory.
+* If you added several questions and you would like to know how many questions are there you can use the script [count_questions.sh](/scripts/count_questions.sh) in scripts directory.
 
 ## What to avoid
 
