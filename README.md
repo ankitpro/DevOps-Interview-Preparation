@@ -1,4 +1,4 @@
-# DevOps Interview Preparation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# DevOps Interview Preparation ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 :information_source: &nbsp;This repo will have information on the resources and also way to crack interview with best package available in the market.
 
 :warning: &nbsp;You can use these for preparing for an interview but most of the questions and exercises don't represent an actual interview.
